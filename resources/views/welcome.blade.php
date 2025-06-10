@@ -257,6 +257,14 @@
         <img src="logo perusahaan.svg" alt="Logo Perusahaan" class="footer-logo">
         <h3>CV MITRA EKSAN MANDIRI</h3>
         <p>Solusi perdagangan yang cepat, tepat, dan terpercaya untuk kebutuhan masyarakat dan pelaku usaha.</p>
+        <div class="social-links">
+          <a href="#"><i class="fab fa-facebook"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-linkedin"></i></a>
+          <a href="https://wa.me/628123597490" target="_blank" rel="noopener">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+        </div>
       </div>
       
       <div class="footer-links">
