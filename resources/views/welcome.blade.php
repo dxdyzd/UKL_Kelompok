@@ -11,7 +11,7 @@
   <!-- Header Navigation -->
   <header class="header">
     <div class="logo-container">
-      <img src="logo perusahaan.svg" alt="Logo" class="logo">
+      <img src="WhatsApp Image 2025-06-10 at 10.30.24_16662751.jpg" alt="Logo" class="logo">
       <span>CV MITRA EKSAN MANDIRI</span>
     </div>
     <nav class="nav">
