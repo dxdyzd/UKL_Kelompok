@@ -257,12 +257,6 @@
         <img src="logo perusahaan.svg" alt="Logo Perusahaan" class="footer-logo">
         <h3>CV MITRA EKSAN MANDIRI</h3>
         <p>Solusi perdagangan yang cepat, tepat, dan terpercaya untuk kebutuhan masyarakat dan pelaku usaha.</p>
-        <div class="social-links">
-          <a href="#"><i class="fab fa-facebook"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-linkedin"></i></a>
-          <a href="#"><i class="fab fa-whatsapp"></i></a>
-        </div>
       </div>
       
       <div class="footer-links">
@@ -299,7 +293,24 @@
       <i class="fas fa-arrow-up"></i>
     </button>
   </footer>
+    <!-- Back to Top Button -->
+    <script>
+        // Hamburger menu toggle
+    const hamburger = document.querySelector('.hamburger');
+    const navUl = document.querySelector('.nav ul');
 
-  <script src="script.js"></script>
+    hamburger.addEventListener('click', function() {
+      hamburger.classList.toggle('active');
+      navUl.classList.toggle('active');
+    });
+
+    // Optional: close menu when link clicked (mobile UX)
+    document.querySelectorAll('.nav ul li a').forEach(link => {
+      link.addEventListener('click', () => {
+        hamburger.classList.remove('active');
+        navUl.classList.remove('active');
+      });
+    });
+    </script>
 </body>
 </html>
