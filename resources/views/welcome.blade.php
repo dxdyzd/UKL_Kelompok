@@ -254,7 +254,7 @@
   <footer class="footer" id="kontak">
     <div class="footer-container">
       <div class="footer-info">
-        <img src="logo perusahaan.svg" alt="Logo Perusahaan" class="footer-logo">
+        <img src="WhatsApp Image 2025-06-10 at 10.30.24_16662751.jpg" alt="Logo Perusahaan" class="footer-logo">
         <h3>CV MITRA EKSAN MANDIRI</h3>
         <p>Solusi perdagangan yang cepat, tepat, dan terpercaya untuk kebutuhan masyarakat dan pelaku usaha.</p>
         <div class="social-links">
